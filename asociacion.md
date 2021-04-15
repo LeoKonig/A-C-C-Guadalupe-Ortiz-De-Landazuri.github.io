@@ -37,10 +37,10 @@ article_header:
     src: /imagenes/paginaN.jpg
 ---
 
-###Misión 
+<b>Misión</b> 
 Difundir el conocimiento científico y promover el diálogo entre ciencia y fe desde una perspectiva católica.
 
-###Visión 
+<b>Visión</b> 
 Brindar un testimonio de la armonía entre ciencia y la fe católica, así como material formativo en distintos formatos.
 
 
