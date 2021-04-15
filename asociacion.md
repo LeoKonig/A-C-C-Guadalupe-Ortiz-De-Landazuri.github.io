@@ -37,10 +37,15 @@ article_header:
     src: /imagenes/paginaN.jpg
 ---
 
-Somos un grupo de jóvenes católicos laicos que estudian distintas áreas del conocimiento: matemáticas, física y filosofía.
+###Misión 
+Difundir el conocimiento científico y promover el diálogo entre ciencia y fe desde una perspectiva católica.
 
-Que, comprometidos con la fe, decidimos lo que vivimos y hacemos desde nuestras áreas.
+###Visión 
+Brindar un testimonio de la armonía entre ciencia y la fe católica, así como material formativo en distintos formatos.
 
+
+Somos un grupo de jóvenes católicos laicos que estudian distintas áreas del conocimiento: matemáticas, física y filosofía. Que, comprometidos con la fe, decidimos lo que vivimos y hacemos desde nuestras áreas.
 Buscamos hacer divulgación de ciencia y fe entre católicos.
-
 También, queremos hablar sobre el diálogo entre ciencia y fe para que los que, son creyentes y los que no, sepan de esto.
+
+
