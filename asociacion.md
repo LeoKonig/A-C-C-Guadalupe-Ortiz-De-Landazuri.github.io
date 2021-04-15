@@ -50,4 +50,6 @@ Somos un grupo de jóvenes católicos laicos que estudian distintas áreas del c
 Buscamos hacer divulgación de ciencia y fe entre católicos.
 También, queremos hablar sobre el diálogo entre ciencia y fe para que los que, son creyentes y los que no, sepan de esto.
 
+¿Te interesa formar parte? 
 
+Puedes enviarnos tu solicitud contestando el <a href="https://docs.google.com/forms/d/e/1FAIpQLScpnGajMekNBcNvrEry3CTOSCBpeuDm-pPVoDXg9dBvpMQ_hA/viewform?usp=sf_link">cuestionario de ingreso</a>.
