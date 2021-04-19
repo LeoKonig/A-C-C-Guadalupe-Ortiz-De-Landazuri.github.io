@@ -132,5 +132,13 @@
       </li>
     {%- endif -%}
     
+    {%- if _author.mastodon -%}
+      <li title="{{ _locale_string_follow | replace: '[NAME]', 'Mastodon' }}">
+        <a class="button button--circle mastodon-button" itemprop="sameAs" href="https://mastodon.social/{{ _author.mastodon }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/mastodon.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
+    
   </ul>
 </div>
