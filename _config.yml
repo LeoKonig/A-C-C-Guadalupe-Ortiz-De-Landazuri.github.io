@@ -53,7 +53,7 @@ author:
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
   instagram : acc.glp.ortizdelandazuri  # "user_name" the last part of your profile url, e.g. https://instagram.com/~user_name
   youtube   : # "user_name" the last part of your profile url, e.g. https://www.youtube.com/channel/~user_name 
-  mastodon  : # "user_name" the last part of your profile url, e.g. https://mastodon.social/~user_name 
+  mastodon  : @accguadalupe # "user_name" the last part of your profile url, e.g. https://mastodon.social/~user_name 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
