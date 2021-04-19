@@ -47,6 +47,9 @@
       .mastodon-button {
         @include clickable($text-color-1, $mastodon-color);
       }
+      .diaspora-button {
+        @include clickable($text-color-1, $diaspora-color);
+      }
     }
   }
 }
