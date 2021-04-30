@@ -27,7 +27,6 @@ titles:
 mode: immersive
 header: 
   theme: dark
-key: page-about
 cover: /docs/assets/images/axure/page-article-header-overlay-background-image.jpg
 article_header:
   type: overlay
