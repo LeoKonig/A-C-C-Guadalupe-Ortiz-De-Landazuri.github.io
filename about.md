@@ -24,8 +24,6 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: page-about
-comments: false
 ---
 
 [¿Quién es Guadalupe Ortíz de Landázuri?](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/Blog/Guadalupe.html "¿Quién es Guadalupe Ortíz de Landázuri?")
