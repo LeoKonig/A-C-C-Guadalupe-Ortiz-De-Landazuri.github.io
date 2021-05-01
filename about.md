@@ -26,6 +26,6 @@ titles:
   # @end locale config
 ---
 
-[¿Quién es Guadalupe Ortíz de Landázuri?](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/Blog/Guadalupe.html "¿Quién es Guadalupe Ortíz de Landázuri?")
+[¿Quién es Guadalupe Ortíz de Landázuri?](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/Guadalupe.html "¿Quién es Guadalupe Ortíz de Landázuri?")
 
-[Acerca de Nosotros](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/Blog/asociacion.html "¿Quienes somos?")
+[Acerca de Nosotros](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/asociacion.html "¿Quienes somos?")
