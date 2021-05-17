@@ -1,5 +1,9 @@
 ---
 layout: article
+aside:
+  toc: true
+sidebar:
+  nav: layouts
 titles:
   # @start locale config
   es      : &ES       ¿Quiénes somos?
