@@ -1,11 +1,5 @@
 ---
 layout: article
-aside:
-  toc: true
-sidebar:
-  nav: 
-    [¿Quién es Guadalupe Ortíz de Landázuri?](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/guadalupe.html "¿Quién es Guadalupe Ortíz de Landázuri?")
-    [Acerca de Nosotros](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/asociacion.html "¿Quienes somos?")
 titles:
   # @start locale config
   es      : &ES       ¿Quiénes somos?
