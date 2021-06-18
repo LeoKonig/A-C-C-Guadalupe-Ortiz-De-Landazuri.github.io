@@ -1,0 +1,42 @@
+---
+title: Miriam Michael Stimson
+tags: Infografía Química Espectroscopía
+mathjax: trueSor Marian Stimson fue química, profesora y monja de las dominicas del Santísimo Rosario de Adrian. Estudió el cancer y desarrolló la técnica del disco KBr.
+#ADN #Catolicismo #FidesEtRatio #Vaticano #MujeresEnCiencia #Sororidad #CienciaYFe #Química
+mathjax_autoNumber: false
+---
+
+(24 de diciembre de 1913-15 de junio de 2002)
+
+<!--- 
+![Stimson](https://raw.githubusercontent.com/A-C-C-Guadalupe-Ortiz-De-Landazuri/Blog/master/infografias/Stimson/Retrato.jpg){:.circle.shadow}
+
+## Fe y obras
+
+
+## Vida académica
+
+
+
+## (Un trabajo importante)
+
+### Principales Publicaciones: 
+Aquí van enumerados los artículos u obras públicadas a las que se puede acceder o son muy importantes, de la forma:
+[número] Apellido,  Inicial_Nombre. (colaboradores). ‘ Título del artículo ’, Revista, Volumen, páginas (año);
+Ejemplo:
+[1] Cabibbo, N., ‘On the radiative decay of charged π-mesons’, Il Nuovo Cimento, 11, pp. 837-842 (1959);  
+
+
+## Fuentes:
+
+Apellido_Autor1 , Inicial_Nombre_Auror1 ., Apellido_Autor2 , Inicial_Nombre_Auror2. Año. Título de la Obra. [online] Nombre de la página. Disponible en: [dirección web](dirección web) [Obtenido el DD de MM del AA].
+Ejemplo: Allen, J. L., 2005. Interview with Professor Nicola Cabibbo [online] National Catholic Reporter. Disponible en: [http://www.natcath.org/mainpage/specialdocuments/cabibbo.htm](http://www.natcath.org/mainpage/specialdocuments/cabibbo.htm) [Obtenido el 8 de Abril del 2021].  
+Apellido, Inicial_Nombre_Auror1. Año de publicación. Título del Capítulo. Título del libro/revista, Volumen o edición, páginas.
+Ejemplo: Parisi, G., 2011. Nicola Cabibbo. Physics Today, 64(2), pp.59-60. 
+ 
+Imagen, derechos de autor: 
+
+## Infografía
+-->
+
+![Info9](https://raw.githubusercontent.com/A-C-C-Guadalupe-Ortiz-De-Landazuri/Blog/master/infografias/poster9.jpg)
