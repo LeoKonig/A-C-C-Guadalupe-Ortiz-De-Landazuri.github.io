@@ -1,6 +1,6 @@
 ---
 title: Karl Landsteiner
-tags: Infografía
+tags: Infografía Medicina Fisiología
 mathjax: true
 mathjax_autoNumber: false
 ---
