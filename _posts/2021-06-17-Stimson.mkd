@@ -1,8 +1,7 @@
 ---
 title: Miriam Michael Stimson
 tags: Infografía Química Espectroscopía
-mathjax: trueSor Marian Stimson fue química, profesora y monja de las dominicas del Santísimo Rosario de Adrian. Estudió el cancer y desarrolló la técnica del disco KBr.
-#ADN #Catolicismo #FidesEtRatio #Vaticano #MujeresEnCiencia #Sororidad #CienciaYFe #Química
+mathjax: true
 mathjax_autoNumber: false
 ---
 
