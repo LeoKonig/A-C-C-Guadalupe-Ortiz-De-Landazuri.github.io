@@ -36,7 +36,7 @@ article_header:
     src: /imagenes/paginaG.jpg
 ---
 
-Guadalupe ortiz es beata de la iglesia católica, término cuyo significado es feliz, bienaventurada, pues goza de la vida eterna. Doctora en química, investigadora, profesora, una mujer valiente y emprendedora que dejo su país de origen para cumplir una misión compartiendo su vida, su carisma, en la obra del Opus Dei y apoyando a los menos favorecidos.
+Guadalupe ortiz es beata de la iglesia católica, término cuyo significado es feliz, bienaventurada, pues goza de la vida eterna. Doctora en química, investigadora, profesora, una mujer valiente y emprendedora que dejó su país de origen para cumplir una misión compartiendo su vida, su carisma, en la obra del Opus Dei y apoyando a los menos favorecidos.
 
 Nació en Madrid el 12 de diciembre de 1916, hija de Manuel Ortiz de Landázauri García, militar español y de Eulogia Fernández de Heredia y Gastagaña. Estudió el bachillerato en el Colegio Marista de Nuestra Señora del Pilar en Tetuán, como única estudiante femenina, cuando se trasladaron a Madrid en 1932 continúo sus estudios en el Instituto Miguel de Cervantes. En 1933 inició la licenciatura de Ciencias Químicas en la Universidad Central de Madrid, siendo una de las únicas cuatro estudiantes mujeres, tuvo que interrumpir sus estudios con el estallido de la Guerra Civil en 1936, en la cual su padre fue fusilado el 8 de septiembre de 1936. 
 
