@@ -2,6 +2,7 @@
 layout: article
 title: Curso propedéutico de matemáticas 2021
 ---
+# Inscripción
 
 1.- Crea una cuenta: [https://campus.chamilo.org/main/auth/inscription.php](https://campus.chamilo.org/main/auth/inscription.php)  
 coloca en Código oficial el código: ACC21
