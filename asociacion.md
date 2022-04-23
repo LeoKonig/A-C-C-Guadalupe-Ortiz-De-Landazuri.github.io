@@ -51,4 +51,4 @@ También, queremos hablar sobre el diálogo entre ciencia y fe para que los que,
 
 ¿Te interesa formar parte? 
 
-Si deseas colaborar en nuestras actividades o unirte a nosotros puedes enviarnos tu solicitud contestando el  <a href="https://docs.google.com/forms/d/e/1FAIpQLScyNfZpxseWVBhgCcfvB0OmGL4UlyaWDpsgEA1azB-0413mEw/viewform?usp=sf_link">cuestionario de ingreso</a>, o bien envianos un correo a <a href="glportizdlandazuri@gmail.com">glportizdlandazuri@gmail.com</a>.
+Si deseas colaborar en nuestras actividades o unirte a nosotros puedes enviarnos tu solicitud contestando el  <a href="https://docs.google.com/forms/d/e/1FAIpQLScyNfZpxseWVBhgCcfvB0OmGL4UlyaWDpsgEA1azB-0413mEw/viewform?usp=sf_link">cuestionario de ingreso</a>, o bien envianos un correo a [glportizdlandazuri@gmail.com](mailto:glportizdlandazuri@gmail.com).
