@@ -45,10 +45,10 @@ Difundir el conocimiento científico y promover el diálogo entre ciencia y fe d
 Brindar un testimonio de la armonía entre ciencia y la fe católica, así como material formativo en distintos formatos.
 
 
-Somos un grupo de jóvenes católicos laicos que estudian distintas áreas del conocimiento: matemáticas, física y filosofía. Que, comprometidos con la fe, decidimos lo que vivimos y hacemos desde nuestras áreas.
+Somos un grupo de estudiantes católicos en las áreas de ciencias formales y experimentales. Que, comprometidos con la fe, decidimos lo que vivimos y hacemos desde nuestras áreas.
 Buscamos hacer divulgación de ciencia y fe entre católicos.
 También, queremos hablar sobre el diálogo entre ciencia y fe para que los que, son creyentes y los que no, sepan de esto.
 
 ¿Te interesa formar parte? 
 
-Puedes enviarnos tu solicitud contestando el <a href="https://docs.google.com/forms/d/e/1FAIpQLScpnGajMekNBcNvrEry3CTOSCBpeuDm-pPVoDXg9dBvpMQ_hA/viewform?usp=sf_link">cuestionario de ingreso</a>.
+Si deseas colaborar en nuestras actividades o unirte a nosotros puedes enviarnos tu solicitud contestando el  <a href="https://docs.google.com/forms/d/e/1FAIpQLScyNfZpxseWVBhgCcfvB0OmGL4UlyaWDpsgEA1azB-0413mEw/viewform?usp=sf_link">cuestionario de ingreso</a>, o bien envianos un correo a <a href="glportizdlandazuri@gmail.com">glportizdlandazuri@gmail.com</a>.
