@@ -28,6 +28,8 @@ aside:
   toc: true
 ---
 
+# Directorio
+
 ## Miembros del Consejo Directivo (2022-2026)
 
 | Leonardo Arturo Gómez Garduño | Fernado Ballesteros Flores | Vanessa Enríquez Hernández | 
