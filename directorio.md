@@ -28,7 +28,7 @@ aside:
   
 | Comunidad Ciudad de México |
 | ---- |
-| Diana Laura Quijada Ocampo <br> Contacto: [diana-07@ciencias.unam.mx](mailto:diana-07@ciencias.unam.mx)  <br> Estudiante de Lic. en Física, UNAM | 
+| **Diana Laura Quijada Ocampo** <br> Contacto: [diana-07@ciencias.unam.mx](mailto:diana-07@ciencias.unam.mx)  <br> Estudiante de Lic. en Física, UNAM | 
 
 ## Acompañamiento Espiritual
 
