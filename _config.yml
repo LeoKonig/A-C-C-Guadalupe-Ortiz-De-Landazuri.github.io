@@ -54,7 +54,7 @@ author:
   instagram : acc.glp.ortizdelandazuri  # "user_name" the last part of your profile url, e.g. https://instagram.com/~user_name
   youtube   : # "user_name" the last part of your profile url, e.g. https://www.youtube.com/channel/~user_name 
   mastodon  : accguadalupe # "user_name" the last part of your profile url, e.g. https://mastodon.social/@~user_name 
-  diaspora  : www.diaspora.ragesoss.com/people/9d31e140a613013a0d68723c920eeef3 # "www.domain.eg/people/~direction" your profile url with the domain, etc., e.g. https://https://www.domain.eg/people/~direction 
+  diaspora  : diaspora.ragesoss.com/people/9d31e140a613013a0d68723c920eeef3 # "www.domain.eg/people/~direction" your profile url with the domain, etc., e.g. https://https://www.domain.eg/people/~direction 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
