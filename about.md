@@ -29,3 +29,5 @@ titles:
 [¿Quién es Guadalupe Ortíz de Landázuri?](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/guadalupe.html "¿Quién es Guadalupe Ortíz de Landázuri?")
 
 [Acerca de Nosotros](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/asociacion.html "¿Quienes somos?")
+
+[Directorio](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/directorio.html "Directorio")
