@@ -10,7 +10,7 @@ aside:
 
 | Leonardo Arturo Gómez Garduño | Fernado Ballesteros Flores | Vanessa Enríquez Hernández | 
 | ---- | ---- | ---- |
-|  Presidente (2022-2023) <br> Correo: [leonardo-konig@ciencias.unam.mx](mailto:leonardo-konig@ciencias.unam.mx)  <br> Estudiante de Lic. en Física, UNAM |  Secretario (2022-2023) <br> Correo: [FernandoBallesteros@ciencias.unam.mx](mailto:FernandoBallesteros@ciencias.unam.mx)  <br> Graduado en Lic. en Física, UNAM | Tesorera (2022-2023) <br> Correo: [vanessa.eh3108@gmail.com](mailto:vanessa.eh3108@gmail.com)  <br> Graduada en Ing. Física, UACH |
+|  Presidente (2022-2023) <br> Correo: [leonardo-konig@ciencias.unam.mx](mailto:leonardo-konig@ciencias.unam.mx)  <br> Estudiante de Lic. en Física y Matem, UNAM |  Secretario (2022-2023) <br> Correo: [FernandoBallesteros@ciencias.unam.mx](mailto:FernandoBallesteros@ciencias.unam.mx)  <br> Graduado en Lic. en Física, UNAM | Tesorera (2022-2023) <br> Correo: [vanessa.eh3108@gmail.com](mailto:vanessa.eh3108@gmail.com)  <br> Graduada en Ing. Física, UACH |
 
 
 | Rocio Carolina Velasco Cordero | Antonio Moreno Herrera | Emilio Martínez Rivera | 
