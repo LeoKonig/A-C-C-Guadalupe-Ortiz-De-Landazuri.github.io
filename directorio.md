@@ -30,3 +30,8 @@ aside:
 | ---- |
 | Diana Laura Quijada Ocampo <br> Correo: [diana-07@ciencias.unam.mx](mailto:diana-07@ciencias.unam.mx)  <br> Estudiante de Lic. en Física, UNAM | 
 
+## Acompañamiento Espiritual
+
+| Pbro. Dr. Juan Pablo Wong González | Pbro. Dr. Mario Arroyo Martínez Fabre | 
+| ---- | ---- |
+| Correo: [juanpablowong@gmail.com](mailto:juanpablowong@gmail.com)  | |
