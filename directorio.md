@@ -15,7 +15,7 @@ aside:
 
 | Rocio Carolina Velasco Cordero | Antonio Moreno Herrera | Emilio Martínez Rivera | 
 | ---- | ---- | ---- |
-| Contacto: [rocio.vcordero@ciencias.unam.mx](mailto:rocio.vcordero@ciencias.unam.mx)  <br> Estudiante de Lic. en Matemáticas, UNAM | Contacto: [antoniomoreno08@gmail.com](mailto:antoniomoreno08@gmail.com)  <br> Estudiante en Ing. en Matemáticas y Aeroespacial, UACH | Contacto: [emiliomtzr.99@gmail.com](mailto:emiliomtzr.99@gmail.com)  <br> Graduada en Ing. Biomédica, UAQ |
+| Contacto: [rocio.vcordero@ciencias.unam.mx](mailto:rocio.vcordero@ciencias.unam.mx)  <br> Estudiante de Lic. en Matemáticas, UNAM | Contacto: [antoniomoreno08@gmail.com](mailto:antoniomoreno08@gmail.com)  <br> Estudiante en Ing. en Matemáticas y Aeroespacial, UACH | Contacto: [emiliomtzr.99@gmail.com](mailto:emiliomtzr.99@gmail.com)  <br> Graduado en Ing. Biomédica, UAQ |
 
 
 | Emiliano Flores Salazar | Abraham Martínez López | 
