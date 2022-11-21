@@ -61,12 +61,14 @@ title: Fichas Consejo de Espiritualidad
 
 ## Fichas Oración
 
+- Módulo 1: Conocer la oración
     - Ficha 01
     - Ficha 02
     - Ficha 03
     - Ficha 04
     - Ficha 05 
     - Ficha 06
+- Módulo 2: Practicar la oración
     - Ficha 07
     - Ficha 08
     - Ficha 09
@@ -75,12 +77,13 @@ title: Fichas Consejo de Espiritualidad
     - Ficha 12
  
 ## Fichas Dirección Espiritual
-
+- Módulo 1
     - Ficha 01
     - Ficha 02
     - Ficha 03
     - Ficha 04
     - Ficha 05 
+- Módulo 2 
     - Ficha 06
     - Ficha 07
     - Ficha 08
