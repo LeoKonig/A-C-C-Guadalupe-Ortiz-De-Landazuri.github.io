@@ -27,3 +27,4 @@ titles:
 ---
 
 [Curso propedéutico 2021](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/Recursos/Curso2021.html  "Curso propedéutico 2021")
+[Fichas](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/Recursos/Fichas.html  "Fichas Consejo de Espiritualidad")
