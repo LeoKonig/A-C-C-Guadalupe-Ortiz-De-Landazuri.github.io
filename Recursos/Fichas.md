@@ -6,7 +6,7 @@ title: Fichas Consejo de Espiritualidad
 - Módulo 1: Autoconocimiento
     - [Ficha 01](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/Recursos/Fichas/PPV/Ficha01.pdf  "Ficha 01")
     - [Ficha 02](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/Recursos/Fichas/PPV/Ficha02.pdf  "Ficha 02")
-    - Ficha 03
+    - [Ficha 03](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/Recursos/Fichas/PPV/Ficha03.pdf  "Ficha 03")
     - Ficha 04
     - Ficha 05 
     - Ficha 06
