@@ -10,7 +10,7 @@ aside:
 
 | Leonardo Arturo Gómez Garduño |  Abraham Martínez López| Vanessa Enríquez Hernández | 
 | ---- | ---- | ---- |
-|  Presidente (2022-2023) <br> Contacto: [leonardo-konig@ciencias.unam.mx](mailto:leonardo-konig@ciencias.unam.mx)  <br> Estudiante de Lic. en Física y Matemáticas, UNAM |  Secretario (2023-2023) <br> Contacto: [abrahammar997@gmail.com](mailto:abrahammar997@gmail.com)  <br> Pasante de Matemáticas Aplicadas, UNAM | Tesorera (2022-2023) <br> Contacto: [vanessa.eh3108@gmail.com](mailto:vanessa.eh3108@gmail.com)  <br> Graduada en Ing. Física, UACH |
+|  Presidente (2022-2023) <br> Contacto: [leonardo-konig@ciencias.unam.mx](mailto:leonardo-konig@ciencias.unam.mx)  <br> Estudiante de Lic. en Física y Matemáticas, UNAM |  Secretario (05/01/2023-2023) <br> Contacto: [abrahammar997@gmail.com](mailto:abrahammar997@gmail.com)  <br> Pasante de Matemáticas Aplicadas, UNAM | Tesorera (2022-2023) <br> Contacto: [vanessa.eh3108@gmail.com](mailto:vanessa.eh3108@gmail.com)  <br> Graduada en Ing. Física, UACH |
 
 
 | Rocio Carolina Velasco Cordero | Antonio Moreno Herrera | Emilio Martínez Rivera | 
