@@ -20,7 +20,7 @@ aside:
 
 | Vanessa Enríquez Hernández | Fernado Ballesteros Flores | 
 | ---- | ---- |
-| Contacto: [vanessa.eh3108@gmail.com](mailto:vanessa.eh3108@gmail.com)  <br> Graduada en Ing. Física, UACH | Secretario (2022-03/01/2023) <br> Contacto: [FernandoBallesteros@ciencias.unam.mx](mailto:FernandoBallesteros@ciencias.unam.mx)  <br> Estudiante de maestría en Ciencias Físicas, I.F. UNAM  |
+| Contacto: [vanessa.eh3108@gmail.com](mailto:vanessa.eh3108@gmail.com)  <br> Graduada en Ing. Física, UACH |  Contacto: [FernandoBallesteros@ciencias.unam.mx](mailto:FernandoBallesteros@ciencias.unam.mx)  <br> Estudiante de maestría en Ciencias Físicas, I.F. UNAM  |
 
 
 ## Coordinadores de Comunidad
