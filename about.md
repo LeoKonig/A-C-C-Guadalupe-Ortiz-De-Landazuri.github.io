@@ -26,8 +26,8 @@ titles:
   # @end locale config
 ---
 
-[¿Quién es Guadalupe Ortíz de Landázuri?](https://leokonig.github.io/guadalupe.html "¿Quién es Guadalupe Ortíz de Landázuri?")
+[¿Quién es Guadalupe Ortíz de Landázuri?](https://leokonig.github.io/Blog/guadalupe.html "¿Quién es Guadalupe Ortíz de Landázuri?")
 
-[Acerca de Nosotros](https://leokonig.github.io/asociacion.html "¿Quienes somos?")
+[Acerca de Nosotros](https://leokonig.github.io/Blog/asociacion.html "¿Quienes somos?")
 
-[Directorio](https://leokonig.github.io/directorio.html "Directorio")
+[Directorio](https://leokonig.github.io/Blog/directorio.html "Directorio")
